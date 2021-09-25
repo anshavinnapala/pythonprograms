@@ -4,4 +4,4 @@ def input_number():
  input2=input_number()
  input3=input_number()
  input4=input_number()
- print(input)
+ print(input1)
